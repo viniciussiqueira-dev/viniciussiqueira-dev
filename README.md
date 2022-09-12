@@ -1,4 +1,4 @@
-## Olá, meu nome é Vinicius Siqueira, sou estudante de engenharia de software e desenvolvedor front-end
+## Olá, meu nome é Vinicius Siqueira, sou estudante de engenharia de software e desenvolvedor front-end 🖖
 <div align="center">
   <a href="https://github.com/viniciussiqueira-dev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciussiqueira-dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
