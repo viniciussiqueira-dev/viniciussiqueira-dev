@@ -1,9 +1,6 @@
 ## Olá, meu nome é Vinicius Siqueira, sou estudante de engenharia de software e desenvolvedor front-end 🖖
-<div>
-<a href="https://github.com/viniciussiqueira-dev">
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=viniciussiqueira-dev&show_icons=true&theme=react"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciussiqueira-dev&layout=compact&langs_count=7&theme=react"/>
-</div>
+| <a href="https://github.com/viniciussiqueira-dev/github-readme-stats"><img align="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=viniciussiqueira-dev&show_icons=true&include_all_commits=true&theme=react&hide_border=true" alt="Vinicius github stats" /></a> | <a href="https://github.com/viniciussiqueira-dev/github-readme-stats"><img height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciussiqueira-dev&layout=compact&theme=react&hide_border=true" /></a> |
+| ------------- | ------------- |
 <div style="display: inline_block"><br>
   <img align="center" alt="Vini-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Vini-TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
